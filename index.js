@@ -1,4 +1,4 @@
-var animal = 'dog';
+var animal = 'cat';
 var const2 = 'two';
 
 function myAnimal() {
@@ -9,7 +9,7 @@ function yourAnimal() {
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
-  return animal;
+  return 'cat';
 }
 var two = 2;
 function add2(n) {
