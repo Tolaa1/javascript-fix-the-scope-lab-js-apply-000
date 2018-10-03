@@ -1,6 +1,6 @@
 var animal = 'cat';
 var const2 = 'two';
-var myAnimal = 'myanimal';
+var myanimal = myAnimal();
 function myAnimal() {
   return myanimal;
 }
